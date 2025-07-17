@@ -2,7 +2,6 @@
 
 A modern take on the virtual photobooth — with artistic flair! This app allows users to capture or upload photos and apply stunning artistic styles using **Neural Style Transfer** techniques.
 
-![screenshot-placeholder](./screenshots/preview.png) <!-- replace with actual path or remove -->
 
 ---
 
@@ -38,11 +37,8 @@ The current app uses **Fast Neural Style Transfer**, trained in PyTorch on Googl
 
 ---
 
-## 📸 Screenshots
-
-<!-- Add your screenshots here -->
-![screenshot-1](./screenshots/photo1.png)
-![screenshot-2](./screenshots/photo2.png)
+## Note 
+I'm currently in the process of deploying it
 
 ---
 
